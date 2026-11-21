@@ -1,0 +1,57 @@
+[
+  {
+    "id": "high-blood-pressure",
+    "title": "About High Blood Pressure",
+    "source_url": "https://www.cdc.gov/high-blood-pressure/about/index.html",
+    "paragraphs": [
+      "Blood pressure is the force of blood pushing against the walls of the arteries as the heart pumps. High blood pressure, also called hypertension, means this force stays higher than normal over time.",
+      "Many people with high blood pressure do not notice symptoms. Measuring blood pressure is the way to find out whether it is high. A health care professional may take readings more than once because blood pressure changes during the day.",
+      "Over time, high blood pressure can harm the heart, blood vessels, brain, and kidneys. It is linked to a higher risk of problems such as heart disease, stroke, and chronic kidney disease.",
+      "Risk can be affected by factors such as eating a lot of sodium, not getting enough physical activity, some health conditions, age, and family history. Some people manage blood pressure with lifestyle changes, while others may also need medicine prescribed by a health professional."
+    ]
+  },
+  {
+    "id": "type-2-diabetes",
+    "title": "About Type 2 Diabetes",
+    "source_url": "https://www.cdc.gov/diabetes/about/about-type-2-diabetes.html",
+    "paragraphs": [
+      "Type 2 diabetes is a condition in which blood sugar stays too high. It is the most common type of diabetes in the United States. It often develops in adults, but children, teenagers, and young adults can also develop it.",
+      "The body makes a hormone called insulin. Insulin helps sugar in the blood enter the body's cells, where it can be used for energy. In type 2 diabetes, the cells do not respond to insulin as they normally would. This is called insulin resistance.",
+      "At first, the pancreas may make more insulin to help. Over time, it may not make enough to keep blood sugar in a healthy range. High blood sugar can damage the body and contribute to problems affecting the heart, eyes, and kidneys.",
+      "Symptoms may take years to appear, and some people do not notice symptoms. A blood test can detect diabetes. The CDC says proven lifestyle changes can help prevent or delay type 2 diabetes, and people who have it can work with their health care team on a management plan."
+    ]
+  },
+  {
+    "id": "adult-physical-activity",
+    "title": "Physical Activity Guidelines for Adults",
+    "source_url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+    "paragraphs": [
+      "Physical activity is movement that uses the body. It supports physical and mental health. Some activity is better than none, and adults can benefit from sitting less and moving more.",
+      "The guidelines described by the CDC recommend that adults get at least 150 minutes of moderate-intensity aerobic activity each week. Brisk walking is one example of moderate-intensity activity.",
+      "Another option is at least 75 minutes of vigorous-intensity aerobic activity each week, or a mix of moderate and vigorous activity. The activity does not have to happen all at once; it can be spread across the week or divided into shorter periods.",
+      "Adults also need muscle-strengthening activity on at least 2 days each week. These activities should work the major muscle groups, including the legs, hips, back, abdomen, chest, shoulders, and arms."
+    ]
+  },
+  {
+    "id": "asthma",
+    "title": "Asthma Symptoms and Management",
+    "source_url": "https://www.cdc.gov/asthma/about/index.html",
+    "paragraphs": [
+      "Asthma can cause wheezing, shortness of breath, chest tightness, and coughing. Symptoms may happen at night or early in the morning. People with asthma have the condition over time, but asthma attacks happen when something bothers their lungs.",
+      "During an asthma attack, the airways can swell and become narrower. Air moves through these passages to reach the lungs. Swelling and narrowed airways can make it harder for air to move in and out, and mucus can block the airways.",
+      "A health care professional can help determine whether someone has asthma. They may ask about coughing, breathing problems, wheezing, family history, and when symptoms occur. A breathing test called spirometry can measure how much air a person breathes out.",
+      "Asthma medicines are not all the same. Some are inhaled and others are taken as pills. The CDC advises following a doctor's directions for medicine; a person who needs reliever medicine more often should talk with their doctor about whether their treatment needs review."
+    ]
+  },
+  {
+    "id": "influenza",
+    "title": "About Seasonal Flu",
+    "source_url": "https://www.cdc.gov/flu/about/index.html",
+    "paragraphs": [
+      "Flu, also called influenza, is a contagious illness caused by influenza viruses. These viruses infect the nose and throat and sometimes the lungs. Flu can be mild or severe, and in some cases it can lead to death.",
+      "Flu symptoms often begin suddenly. They can include fever or chills, cough, sore throat, a runny or stuffy nose, muscle aches, headache, and tiredness. Some people, especially children, may also have vomiting or diarrhea. Not everyone with flu has a fever, and some infected people have no symptoms.",
+      "Flu viruses spread mainly through droplets made when an infected person coughs, sneezes, or talks. These droplets can reach people nearby. Less often, a person may touch a surface with the virus and then touch their mouth, nose, or eyes.",
+      "People can spread flu before they know they are sick. The CDC says people are most contagious during the first 3 days of illness. Some healthy adults may spread flu starting 1 day before symptoms and for 5 to 7 days after becoming sick; children and people with weakened immune systems may be contagious longer."
+    ]
+  }
+]
